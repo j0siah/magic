@@ -17,7 +17,7 @@ module.exports = function(grunt) {
 		stylus: {
 			compile: {
 				options: {
-					compress: false,
+					compress: true,
 					paths: ['stylus'],
 					import: [
 						'nib/*'
