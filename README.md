@@ -72,3 +72,6 @@ animation-duration: 10s;
 }
 ```
 
+##ToDo 
+1. Config minifier
+2. Add Animate.css to stylus 
